@@ -1,2 +1,7 @@
 Here are some prerequest to run the python file:- 
 pip install ip2geotools
+
+Some other Downloads if required
+pip install geoip2
+pip install geocoder
+pip install requests
